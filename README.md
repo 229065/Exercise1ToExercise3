@@ -53,7 +53,7 @@ Basketball Team: Win: add 2 points; Lose: do nothing.
 
 ## Requirements
 - [Java version: 14.0.1](https://www.javatpoint.com/javafx-how-to-install-java)
-- [junit 4.13.1](https://www.jetbrains.com/help/idea/junit.html)
+- [Junit 4.13.1](https://www.jetbrains.com/help/idea/junit.html)
 - [Apache Maven 3.8.4](https://www.javatpoint.com/how-to-install-maven)
 
 ## Resources
