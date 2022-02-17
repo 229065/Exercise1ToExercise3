@@ -62,5 +62,3 @@ Basketball Team: Win: add 2 points; Lose: do nothing.
 
 ## Issues
      If you find a bug, Please let me know by submitting an issue.
-## 
-
