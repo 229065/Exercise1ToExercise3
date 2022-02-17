@@ -61,4 +61,4 @@ Basketball Team: Win: add 2 points; Lose: do nothing.
 - [JUnit](https://www.javatpoint.com/junit-tutorial)
 
 ## Issues
-     If you find a bug, Please let me know by submitting an issue.
+   If you find a bug, Please let me know by submitting an issue.
