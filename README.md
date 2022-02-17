@@ -1,6 +1,6 @@
 # Exercise 1 To Exercise 3
 
-The project includes `3` Exercises in this project. which cover basic concepts of Java `Method Overloading`, `Method Overriding`,`Collections`, `File Handling`, `Comparator`. 
+The project includes `Three` Exercises. which cover basic concepts of Java `Method Overloading`, `Method Overriding`,`Collections`, `File Handling`, `Comparator`. 
 
 ### Exercise 1  
    Employee class calculates the Salary of the employee using the following functions :  
